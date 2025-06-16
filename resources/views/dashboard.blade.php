@@ -6,7 +6,8 @@
 </head>
 
 <body>
-    <h1>Halaman Dashboard!</h1>
+    <h1>Halaman Dashboard!Halaman Dashboard!Halaman Dashboard!Halaman Dashboard!Halaman Dashboard!Halaman
+        Dashboard!Halaman Dashboard!Halaman Dashboard!Halaman Dashboard!</h1>
 
     <p>Halo, {{ Auth::user()->name }}. Anda sudah login.</p>
 
